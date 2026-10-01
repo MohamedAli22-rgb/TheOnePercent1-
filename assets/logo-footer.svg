@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <defs>
+    <linearGradient id="footerBrandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0082FA" />
+      <stop offset="100%" stop-color="#0755B8" />
+    </linearGradient>
+  </defs>
+  <!-- Icon Badge with subtle border glow -->
+  <rect x="4" y="8" width="44" height="44" rx="12" fill="url(#footerBrandGrad)" stroke="rgba(255, 255, 255, 0.2)" stroke-width="1.5" />
+  <text x="26" y="37" font-family="'Inter', sans-serif" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle">1%</text>
+  
+  <!-- Brand Text in Crisp White & Luminous Blue -->
+  <text x="60" y="28" font-family="'Inter', sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" letter-spacing="0.5">THE ONE PERCENT</text>
+  <text x="60" y="45" font-family="'Alexandria', sans-serif" font-size="11" font-weight="600" fill="#38BDF8">أكاديمية التعليم الصيدلي العملي</text>
+</svg>
